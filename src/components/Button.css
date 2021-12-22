@@ -11,7 +11,7 @@
     border-bottom: var(--border-button);
     outline: none; 
 }
-
+  
 .button:active {
     background-color: #ccc;
 }
@@ -25,10 +25,10 @@
 }
 
 .button.operation {
-    background-color: #fa8231;
+    background-color: #4f0882;
     color: #FFF;
 }
 
 .button.operation.active {
-    background-color: #fa8231cc;
+    background-color: #4f0882cc;
 }
